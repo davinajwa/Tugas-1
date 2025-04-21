@@ -44,6 +44,7 @@ mahasiswa_baru.set_prodi("Kedokteran Hewan")
 print("\n=== Setelah diubah ===")
 print("NIM setelah diubah:", mahasiswa_baru.get_nim())
 print("Prodi setelah diubah:", mahasiswa_baru.get_prodi())
+
 mahasiswa_baru.mengikuti_pmb()
 mahasiswa_baru.mengisi_absensi()
 mahasiswa_baru.presentasi_tugas()
